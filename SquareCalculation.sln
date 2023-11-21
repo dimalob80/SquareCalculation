@@ -5,6 +5,10 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareCalculation", "SquareCalculation\SquareCalculation.csproj", "{681ECA3B-7629-4FA8-A2B6-84D9105A8ADF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareCalculation.Services", "SquareCalculation.Services\SquareCalculation.Services.csproj", "{122AB4D7-88E0-4DA6-BD81-269ACC45AB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareCalculation.Tests", "SquareCalculation.Tests\SquareCalculation.Tests.csproj", "{0EB1C017-6A5A-4E25-BEC8-F4E008F1DAA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{681ECA3B-7629-4FA8-A2B6-84D9105A8ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{681ECA3B-7629-4FA8-A2B6-84D9105A8ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{681ECA3B-7629-4FA8-A2B6-84D9105A8ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122AB4D7-88E0-4DA6-BD81-269ACC45AB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122AB4D7-88E0-4DA6-BD81-269ACC45AB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122AB4D7-88E0-4DA6-BD81-269ACC45AB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122AB4D7-88E0-4DA6-BD81-269ACC45AB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB1C017-6A5A-4E25-BEC8-F4E008F1DAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB1C017-6A5A-4E25-BEC8-F4E008F1DAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB1C017-6A5A-4E25-BEC8-F4E008F1DAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB1C017-6A5A-4E25-BEC8-F4E008F1DAA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
